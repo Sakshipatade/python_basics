@@ -15,3 +15,4 @@ print("False and False is:",False and False)  #output -> False
 # truth table of 'not' operator
 print(not(False)) #output will be True
 print(not(True)) #output will be False
+
