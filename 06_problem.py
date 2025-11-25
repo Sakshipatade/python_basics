@@ -1,0 +1,1 @@
+#write a program to calculate the square of the number entered by the user 
