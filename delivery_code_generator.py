@@ -17,6 +17,6 @@ indexed_city = uppercase_value_city[:3]
 indexed_area = lowercase_value_area[-2:len(lowercase_value_area)]
 indexed_number = number[3:5]
 
-r = indexed_city + indexed_number + indexed_area
+s = indexed_city + indexed_number + indexed_area
 
-print("Generated OTP: ", r)
+print("Generated OTP: ", s)
