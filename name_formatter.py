@@ -7,7 +7,7 @@
 '''
 
 
-name = input("Enter your First name and Last name: ")
+name = input("Enter your value: ")
 trimmed_text = name.replace(" ", "")
 lower_text = trimmed_text.lower()   
 print(lower_text[0:9])
