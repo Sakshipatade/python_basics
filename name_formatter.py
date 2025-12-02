@@ -5,8 +5,6 @@
     Convert to lowercase
     Slice the first 8 characters
 '''
-
-
 name = input("Enter your value: ")
 trimmed_text = name.replace(" ", "")
 lower_text = trimmed_text.lower()   
